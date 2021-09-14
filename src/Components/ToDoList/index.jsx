@@ -7,9 +7,10 @@ export default class ToDoList extends Component {
         return (
             <Fragment>
                 <div>
-                    <span className={Styles.task}>{task}</span>
-                    <span className={Styles.time}>{time}</span>
-                    <span className={Styles.action} onClick={() => this.props.deleteTask(id)}><i className={`${Styles.closeSt} far fa-times-circle`}></i></span>
+                    {task && <span className={Styles.task}>{task}</span>}
+                    {time && <span className={Styles.time}>{time}</span>}
+                    {task && <span className={Styles.action} onClick={() => this.props.deleteTask(id)}><i className={`${Styles.closeSt} far fa-times-circle`}></i></span>
+                    }
                 </div>
             </Fragment>
         )
