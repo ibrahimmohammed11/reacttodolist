@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reacttodolist/static/css/main.fef2c56b.chunk.css",
+    "main.js": "/reacttodolist/static/js/main.4424bb32.chunk.js",
+    "main.js.map": "/reacttodolist/static/js/main.4424bb32.chunk.js.map",
+    "runtime-main.js": "/reacttodolist/static/js/runtime-main.19c96f79.js",
+    "runtime-main.js.map": "/reacttodolist/static/js/runtime-main.19c96f79.js.map",
+    "static/css/2.16456e8d.chunk.css": "/reacttodolist/static/css/2.16456e8d.chunk.css",
+    "static/js/2.5982669f.chunk.js": "/reacttodolist/static/js/2.5982669f.chunk.js",
+    "static/js/2.5982669f.chunk.js.map": "/reacttodolist/static/js/2.5982669f.chunk.js.map",
+    "index.html": "/reacttodolist/index.html",
+    "static/css/2.16456e8d.chunk.css.map": "/reacttodolist/static/css/2.16456e8d.chunk.css.map",
+    "static/css/main.fef2c56b.chunk.css.map": "/reacttodolist/static/css/main.fef2c56b.chunk.css.map",
+    "static/js/2.5982669f.chunk.js.LICENSE.txt": "/reacttodolist/static/js/2.5982669f.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/reacttodolist/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19c96f79.js",
+    "static/css/2.16456e8d.chunk.css",
+    "static/js/2.5982669f.chunk.js",
+    "static/css/main.fef2c56b.chunk.css",
+    "static/js/main.4424bb32.chunk.js"
+  ]
+}
