@@ -1,0 +1,14 @@
+.closeSt {
+  cursor: pointer;
+  font-size: 25px;
+  color: red;
+}
+.task {
+  width: 60%;
+}
+.time {
+  width: 30%;
+}
+.action {
+  width: 10%;
+}

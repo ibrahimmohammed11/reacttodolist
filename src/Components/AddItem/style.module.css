@@ -1,0 +1,26 @@
+.task {
+  width: 60%;
+  background-color: #ebebeb;
+  border: transparent;
+  border: 0.3px solid #ccc;
+  padding-left: 10px;
+}
+.time {
+  width: 30%;
+  background-color: #ebebeb;
+  border: 0.3px solid #ccc;
+  padding-left: 10px;
+  cursor: pointer;
+}
+.time:focus,
+.task:focus {
+  box-shadow: 0 0 5pt 2pt #d3d3d3;
+  outline-width: 0px;
+}
+.action {
+  width: 10%;
+  background-color: #05386b;
+  color: white;
+  padding: 10px;
+  border: none;
+}
